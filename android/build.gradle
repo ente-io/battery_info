@@ -1,4 +1,4 @@
-group = "com.example.battery_info"
+group = "com.igrik12.battery_info"
 version = "1.0-SNAPSHOT"
 
 buildscript {
@@ -25,7 +25,7 @@ apply plugin: "com.android.library"
 apply plugin: "kotlin-android"
 
 android {
-    namespace = "com.example.battery_info"
+    namespace = "com.igrik12.battery_info"
 
     compileSdk = 35
 
